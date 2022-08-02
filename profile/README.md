@@ -2,7 +2,7 @@
     <a href="https://farsi.dev" target="_blank">
         <img
             src="https://github.com/farsidev/.github/blob/master/docs/images/farsi.jpg?raw=true"
-            width="400"
+            width="300"
         >
     </a>
 </p>
