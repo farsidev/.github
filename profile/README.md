@@ -1,8 +1,7 @@
 <p align="center">
     <a href="https://farsi.dev" target="_blank">
         <img
-            src="https://github.com/farsidev/.github/blob/master/docs/images/farsi.jpg?raw=true"
-            width="300"
+            src="https://github.com/farsidev/.github/blob/master/docs/images/cover.png?raw=true"
         >
     </a>
 </p>
